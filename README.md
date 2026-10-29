@@ -39,27 +39,27 @@ class AboutMe:
 <h1 align="center">🛠️ Tech Stack & Skills</h1>
 
 <p align="center">
-  <b>💻 Programming Languages</b><br>
+  <b>💻 Programming Languages</b><br><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,py" alt="Programming Languages" />
 </p>
 
 <p align="center">
-  <b>🚀 Frameworks & Libraries</b><br>
+  <b>🚀 Frameworks & Libraries</b><br><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap" alt="Frameworks & Libraries" />
 </p>
 
 <p align="center">
-  <b>⚙️ Backend Technologies</b><br>
+  <b>⚙️ Backend Technologies</b><br><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next" alt="Backend Technologies" />
 </p>
 
 <p align="center">
-  <b>🗄️ Databases & Cloud</b><br>
+  <b>🗄️ Databases & Cloud</b><br><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,aws,azure" alt="Databases & Cloud" />
 </p>
 
 <p align="center">
-  <b>🛠️ Tools & Technologies</b><br>
+  <b>🛠️ Tools & Technologies</b><br><br>
   <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman" alt="Tools & Technologies" />
 </p>
 
@@ -130,8 +130,6 @@ class AboutMe:
   <img src="https://raw.githubusercontent.com/itsmdsamiulislamswe/itsmdsamiulislamswe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/itsmdsamiulislamswe/itsmdsamiulislamswe/raw/master/metrics.svg" alt="Metrics" />
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
