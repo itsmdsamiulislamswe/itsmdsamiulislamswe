@@ -63,7 +63,7 @@ class AboutMe:
   <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman" alt="Tools & Technologies" />
 </p>
 
-<h1 align="center">☕ Connect with me</h1>
+<h1 align="center">☕ Find Me Online</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
