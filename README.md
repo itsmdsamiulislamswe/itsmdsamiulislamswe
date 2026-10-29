@@ -122,5 +122,9 @@ class AboutMe:
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
+<h1 align="center">🐍 My GitHub Contributions as Snake Game</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmdsamiulislamswe/itsmdsamiulislamswe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
