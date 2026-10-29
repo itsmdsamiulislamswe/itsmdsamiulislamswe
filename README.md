@@ -58,7 +58,7 @@ class AboutMe:
 
 <p align="center">
   <b>🛠️ Tools & Technologies</b><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman,powershell" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman" alt="Tools & Technologies" />
 </p>
 
 <h1 align="center">☕ Connect with me</h1>
