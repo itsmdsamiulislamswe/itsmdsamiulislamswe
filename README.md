@@ -28,9 +28,11 @@ class AboutMe:
 
 <h1 align="center">👨‍💻 About Me</h1>
 
+<p align="center">🔭 I’m currently working on Full-Stack Web Applications</p>
 <p align="center">💻 Full-Stack Web Developer | Crafting scalable & modern web applications.</p>
-<p align="center">🌱 Learning: React.js, Next.js, Node.js & Express.js</p>
 <p align="center">🛠️ Skills: JavaScript, Git/GitHub & CLI Automation</p>
+<p align="center">🌱 Learning: React.js, Next.js, Node.js & Express.js</p>
+<p align="center">💬 Ask me about Web Development & JavaScript</p>
 <p align="center">⚡ Fun fact: Love building automated tools & solving complex dev challenges!</p>
 <p align="center">📫 How to reach me: md.samiulislam.swe@gmail.com</p>
 
