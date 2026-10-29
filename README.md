@@ -130,4 +130,8 @@ class AboutMe:
   <img src="https://raw.githubusercontent.com/itsmdsamiulislamswe/itsmdsamiulislamswe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/itsmdsamiulislamswe/itsmdsamiulislamswe/raw/master/metrics.svg" alt="Metrics" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
