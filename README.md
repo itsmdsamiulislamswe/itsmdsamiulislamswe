@@ -34,7 +34,7 @@ class AboutMe:
 <p align="center">🌱 Learning: React.js, Next.js, Node.js & Express.js</p>
 <p align="center">💬 Ask me about Web Development & JavaScript</p>
 <p align="center">⚡ Fun fact: Love building automated tools & solving complex dev challenges!</p>
-<p align="center">📫 How to reach me: md.samiulislam.swe@gmail.com</p>
+<!-- <p align="center">📫 How to reach me: md.samiulislam.swe@gmail.com</p> -->
 
 <h1 align="center">🛠️ Tech Stack & Skills</h1>
 
