@@ -118,6 +118,9 @@ class AboutMe:
   <img src="https://img.shields.io/github/stars/itsmdsamiulislamswe?style=social&label=Stars" alt="GitHub Stars" />
 </p>
 
-
+<h1 align="center">✍️ Random Dev Quote</h1>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
