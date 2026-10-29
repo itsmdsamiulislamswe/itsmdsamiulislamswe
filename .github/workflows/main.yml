@@ -1,7 +1,7 @@
 name: Generate Animation
 
 on:
-  # প্রতিদিন নিজে থেকে বা ম্যানুয়ালি রান হবে
+  # It will run automatically or manually every day.
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -15,11 +15,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # ১. আপনার রিপোজিটরি চেকআউট করা
+      # 1. Checking out your repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # ২. স্নেক অ্যানিমেশন জেনারেট করা
+      # 2. Generate snake animation
       - name: Generate patorjk/github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         id: snake-gif
@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ৩. জেনারেট হওয়া ফাইলগুলো একটি আলাদা ব্রাঞ্চে (output) পুশ করা
+      # 3. Push the generated files to a separate branch (output)
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
