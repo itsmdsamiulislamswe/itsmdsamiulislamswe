@@ -6,6 +6,7 @@ class AboutMe:
         self.profession = "Software Engineer | Full-Stack Developer"
         self.location = "Dhaka, Bangladesh"
 <<<<<<< HEAD
+<<<<<<< HEAD
         
         self.preferred_tech_stack = ["javascript", "typescript", "nodejs", "react"]
         self.can_use = [
@@ -14,6 +15,8 @@ class AboutMe:
         ]
         
 =======
+=======
+>>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 
         self.preferred_tech_stack = ["javascript", "typescript", "nodejs", "react"]
         self.can_use = [
@@ -21,7 +24,10 @@ class AboutMe:
             "nestjs", "react", "redux", "mongodb", "mongoose", "mysql", "python", "git"
         ]
 
+<<<<<<< HEAD
 >>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
+=======
+>>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
         self.currently_learning = ["system_design", "advanced_typescript", "ci_cd_pipelines"]
         self.fun_fact = "I love building scalable backend systems and podcast clipping tools! 🚀"
 
@@ -106,10 +112,14 @@ class AboutMe:
 </p>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 align="center">🔥 GitHub Streak</h1>
 =======
 <h1 align="center">🔥 GitHub Stats</h1>
 >>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
+=======
+<h1 align="center">🔥 GitHub Stats</h1>
+>>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
@@ -128,9 +138,12 @@ class AboutMe:
 </p>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
+=======
+>>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
@@ -148,8 +161,11 @@ class AboutMe:
 </p>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
+=======
+>>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
