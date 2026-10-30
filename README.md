@@ -111,15 +111,8 @@ class AboutMe:
   </a>
 </p>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h1 align="center">🔥 GitHub Streak</h1>
-=======
-<h1 align="center">🔥 GitHub Stats</h1>
->>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
-=======
-<h1 align="center">🔥 GitHub Stats</h1>
->>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
@@ -137,13 +130,7 @@ class AboutMe:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
-=======
->>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
@@ -160,12 +147,4 @@ class AboutMe:
   <img src="https://raw.githubusercontent.com/itsmdsamiulislamswe/itsmdsamiulislamswe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 060a103 (Refactor code structure for improved readability and maintainability)
-=======
->>>>>>> b6ebaee0606e264a1cd24ec53abab4f4d54ecad2
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
