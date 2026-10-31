@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/MD-Samiul-Islam-GitHub-Banner.jpg" alt="GitHub Banner" width="100%" height="auto" style="border: 3px solid #21334a; border-radius: 35px; box-shadow: 0 0 15px rgba(33, 51, 74, 0.6);" />
+  <img src="./assets/MD-Samiul-Islam-GitHub-Banner.jpg" alt="MD Samiul Islam GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">👨‍💻 About Me</h1>
