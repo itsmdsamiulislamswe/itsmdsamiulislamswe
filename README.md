@@ -1,4 +1,6 @@
-<img src="./assets/MD-Samiul-Islam-GitHub-Banner.jpg" alt="GitHub Banner" width="100%" height="auto" />
+<p align="center">
+  <img src="./assets/MD-Samiul-Islam-GitHub-Banner.jpg" alt="GitHub Banner" width="100%" height="auto" style="border: 2px solid #485c74; border-radius: 8px; box-shadow: 0 0 10px rgba(72, 92, 116, 0.4);" />
+</p>
 
 <h1 align="center">👨‍💻 About Me</h1>
 
