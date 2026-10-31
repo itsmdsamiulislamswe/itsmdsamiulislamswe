@@ -1,3 +1,4 @@
+<img src="./assets/MD-Samiul-Islam-GitHub-Banner.jpg" alt="GitHub Banner" width="100%" height="auto" />
 
 <h1 align="center">👨‍💻 About Me</h1>
 
@@ -68,7 +69,6 @@
   </a>
 </p>
 
-
 <h1 align="center">🔥 GitHub Streak</h1>
 
 <p align="center">
@@ -87,7 +87,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
@@ -104,4 +103,4 @@
   <img src="https://raw.githubusercontent.com/itsmdsamiulislamswe/itsmdsamiulislamswe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
