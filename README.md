@@ -74,7 +74,7 @@
 <h1 align="center">🔥 GitHub Streak</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
