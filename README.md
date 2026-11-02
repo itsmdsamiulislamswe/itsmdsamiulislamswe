@@ -86,8 +86,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
