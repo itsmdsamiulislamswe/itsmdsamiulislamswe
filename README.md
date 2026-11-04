@@ -46,7 +46,7 @@
     <img src="./assets/Social-Icons/Linkedin-Icon-96.png" height="50" width="50" alt="Linkedin"/>
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislam/" target="_blank">
-    <img src="./assets/Social-Icons/icons8-facebook-96.png" height="50" width="50" alt="Facebook">
+    <img src="./assets/Social-Icons/Facebook-Icon-96.png" height="50" width="50" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" width="50" alt="Instagram">
