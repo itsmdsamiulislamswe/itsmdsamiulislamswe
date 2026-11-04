@@ -49,25 +49,25 @@
     <img src="./assets/Social-Icons/Facebook-Icon-96.png" height="50" width="50" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" width="50" alt="Instagram">
+    <img src="./assets/Social-Icons/Instagram-Icon-96.png" height="50" width="50" alt="Instagram">
   </a>
   <a href="https://discord.gg/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="50" width="50" alt="Discord">
+    <img src="./assets/Social-Icons/Discord-Icon-96.png" height="50" width="50" alt="Discord">
   </a>
   <a href="https://youtube.com/@itsmdsamiulislamswe" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="50" width="50" alt="YouTube">
+    <img src="./assets/Social-Icons/YouTube-Icon-96.png" height="50" width="50" alt="YouTube">
   </a>
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" height="50" width="50" alt="Pinterest">
+    <img src="./assets/Social-Icons/Pinterest-Icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
   <a href="https://tiktok.com/@itsmdsamiulislamdev" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" height="50" width="50" alt="TikTok">
+    <img src="./assets/Social-Icons/TikTok-Icon-96.png" height="50" width="50" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=kbuAJVwYUPvh&format=png&color=000000" height="50" width="50" alt="Twitter">
+    <img src="./assets/Social-Icons/Twitter-Icon-96.png" height="50" width="50" alt="Twitter">
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" width="50" alt="Email">
+    <img src="./assets/Social-Icons/Gmail-Icon-96.png" height="50" width="50" alt="Email">
   </a>
 </p>
 
