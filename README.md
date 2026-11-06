@@ -42,10 +42,10 @@
 <h1 align="center">☕ Find Me Online</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsamiulislamdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
     <img src="./assets/Social-Icons/Linkedin-Icon-96.png" height="50" width="50" alt="Linkedin"/>
   </a>
-  <a href="https://www.facebook.com/itsmdsamiulislam/" target="_blank">
+  <a href="https://www.facebook.com/itsmdsamiulislamswe/" target="_blank">
     <img src="./assets/Social-Icons/Facebook-Icon-96.png" height="50" width="50" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
@@ -60,7 +60,7 @@
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
     <img src="./assets/Social-Icons/Pinterest-Icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
-  <a href="https://tiktok.com/@itsmdsamiulislamdev" target="_blank">
+  <a href="https://tiktok.com/@itsmdsamiulislamswe" target="_blank">
     <img src="./assets/Social-Icons/TikTok-Icon-96.png" height="50" width="50" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
