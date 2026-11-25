@@ -85,6 +85,10 @@
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=itsmdsamiulislamswe&repo=itsmdsamiulislamswe&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Activity Chart" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=itsmdsamiulislamswe&repo=itsmdsamiulislamswe&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Activity Chart" />
+</p> -->
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
