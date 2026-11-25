@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmdsamiulislamswe&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
 
 
