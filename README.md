@@ -60,7 +60,7 @@
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
     <img src="./assets/Social-Icons/Pinterest-Icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
-  <a href="https://tiktok.com/@itsmdsamiulislamdev" target="_blank">
+  <a href="https://tiktok.com/@itsmdsamiulislamswe" target="_blank">
     <img src="./assets/Social-Icons/TikTok-Icon-96.png" height="50" width="50" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
