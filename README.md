@@ -124,9 +124,9 @@
 </p>
 
 
-
+<h1 align="center">📈 GitHub Activity Graph</h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmdsamiulislamswe&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmdsamiulislamswe&theme=gotham&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 
