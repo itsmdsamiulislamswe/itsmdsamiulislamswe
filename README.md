@@ -64,31 +64,31 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
-    <img src="./assets/Social-Icons/Linkedin-Icon-96.png" height="50" width="50" alt="Linkedin"/>
+    <img src="./assets/social-icons/linkedin-icon-96.png" height="50" width="50" alt="Linkedin"/>
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="./assets/Social-Icons/Facebook-Icon-96.png" height="50" width="50" alt="Facebook">
+    <img src="./assets/social-icons/facebook-icon-96.png" height="50" width="50" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="./assets/Social-Icons/Instagram-Icon-96.png" height="50" width="50" alt="Instagram">
+    <img src="./assets/social-icons/instagram-icon-96.png" height="50" width="50" alt="Instagram">
   </a>
   <a href="https://discord.gg/itsmdsamiulislamswe/" target="_blank">
-    <img src="./assets/Social-Icons/Discord-Icon-96.png" height="50" width="50" alt="Discord">
+    <img src="./assets/social-icons/discord-icon-96.png" height="50" width="50" alt="Discord">
   </a>
   <a href="https://youtube.com/@itsmdsamiulislamswe" target="_blank">
-    <img src="./assets/Social-Icons/YouTube-Icon-96.png" height="50" width="50" alt="YouTube">
+    <img src="./assets/social-icons/youtube-icon-96.png" height="50" width="50" alt="YouTube">
   </a>
   <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
-    <img src="./assets/Social-Icons/Pinterest-Icon-96.png" height="50" width="50" alt="Pinterest">
+    <img src="./assets/social-icons/pinterest-icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
   <a href="https://tiktok.com/@itsmdsamiulislamswe" target="_blank">
-    <img src="./assets/Social-Icons/TikTok-Icon-96.png" height="50" width="50" alt="TikTok">
+    <img src="./assets/social-icons/tiktok-icon-96.png" height="50" width="50" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
-    <img src="./assets/Social-Icons/Twitter-Icon-96.png" height="50" width="50" alt="Twitter">
+    <img src="./assets/social-icons/twitter-icon-96.png" height="50" width="50" alt="Twitter">
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com" target="_blank">
-    <img src="./assets/Social-Icons/Gmail-Icon-96.png" height="50" width="50" alt="Email">
+    <img src="./assets/social-icons/gmail-icon-96.png" height="50" width="50" alt="Email">
   </a>
 </p>
 
