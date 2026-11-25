@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=itsmdsamiulislamswe&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
