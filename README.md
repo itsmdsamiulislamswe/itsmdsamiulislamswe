@@ -166,4 +166,15 @@
 
 
 
+
+
+
+<!-- git rm -r --cached .
+git add .
+git commit -m "Rename files and folders"
+git push origin main -->
+
+
+
+
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
