@@ -108,7 +108,7 @@
     <img src="./assets/social-icons/tiktok-icon-96.png" height="50" width="50" alt="TikTok">
   </a>
   <a href="https://x.com/itsmdsamiulisla/" target="_blank">
-    <img src="./assets/social-icons/twitter-icon-96.png" height="50" width="50" alt="Twitter">
+    <img src="./assets/social-icons/twitter-icon-96.png" height="40" width="40" alt="Twitter">
   </a>
   <a href="mailto:md.samiulislam.swe@gmail.com" target="_blank">
     <img src="./assets/social-icons/gmail-icon-96.png" height="50" width="50" alt="Email">
