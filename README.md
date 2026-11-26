@@ -102,7 +102,7 @@
     <img src="./assets/social-icons/pinterest-icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
   <a href="https://t.me/itsmdsamiulislamswe" target="_blank">
-    <img src="./assets/social-icons/telegram-icon-96.png" height="50" width="50" alt="Telegram">
+    <img src="./assets/social-icons/telegram-icon-96.png" height="40" width="40" alt="Telegram">
   </a>
   <a href="https://tiktok.com/@itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/tiktok-icon-96.png" height="50" width="50" alt="TikTok">
