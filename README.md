@@ -25,35 +25,55 @@
 
 <p align="center">
   <b>💻 Programming Languages</b><br><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,py" alt="Programming Languages" />
+  <!-- <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,py" alt="Programming Languages" /> -->
+  <img src="./assets/programming-languages/javascript-icon-96.png" width="50" height="50" alt="Programming Languages" />
+  <img src="./assets/programming-languages/typescript-icon-96.png" width="50" height="50" alt="Programming Languages" />
+  <img src="./assets/programming-languages/python-icon-96.png" width="50" height="50" alt="Programming Languages" />
 </p>
 
 
 
 <p align="center">
   <b>🚀 Frameworks & Libraries</b><br><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap" alt="Frameworks & Libraries" />
+  <!-- <img src="https://skillicons.dev/icons?theme=dark&i=react,redux,tailwindcss,bootstrap" alt="Frameworks & Libraries" /> -->
+  <img src="./assets/frameworks-&-libraries/react.js-icon-96.png" width="50" height="50" alt="Frameworks & Libraries" />
+  <img src="./assets/frameworks-&-libraries/redux-icon-96.png" width="50" height="50" alt="Frameworks & Libraries" />
+  <img src="./assets/frameworks-&-libraries/tailwind-css-icon-96.png" width="50" height="50" alt="Frameworks & Libraries" />
+  <img src="./assets/frameworks-&-libraries/bootstrap-icon-96.png" width="50" height="50" alt="Frameworks & Libraries" />
 </p>
 
 
 
 <p align="center">
   <b>⚙️ Backend Technologies</b><br><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next" alt="Backend Technologies" />
+  <!-- <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,next" alt="Backend Technologies" /> -->
+  <img src="./assets/backend-technologies/node.js-icon-96.png" width="50" height="50" alt="Backend Technologies" />
+  <img src="./assets/backend-technologies/express.js-icon-96.png" width="50" height="50" alt="Backend Technologies" />
+  <img src="./assets/backend-technologies/next.js-icon-96.png" width="50" height="50" alt="Backend Technologies" />
 </p>
 
 
 
 <p align="center">
   <b>🗄️ Databases & Cloud</b><br><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,aws,azure" alt="Databases & Cloud" />
+  <!-- <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,aws,azure" alt="Databases & Cloud" /> -->
+  <img src="./assets/dtabases-&-cloud/mongodb-icon-96.png" width="50" height="50" alt="Databases & Cloud" />
+  <img src="./assets/dtabases-&-cloud/mysql-icon-96.png" width="50" height="50" alt="Databases & Cloud" />
+  <img src="./assets/dtabases-&-cloud/aws-icon-96.png" width="50" height="50" alt="Databases & Cloud" />
+  <img src="./assets/dtabases-&-cloud/azure-icon-96.png" width="50" height="50" alt="Databases & Cloud" />
 </p>
 
 
 
 <p align="center">
   <b>🛠️ Tools & Technologies</b><br><br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman" alt="Tools & Technologies" />
+  <!-- <img src="https://skillicons.dev/icons?theme=dark&i=html,css,git,github,vscode,postman" alt="Tools & Technologies" /> -->
+  <img src="./assets/tools-&-technologies/html-icon-96.png" width="50" height="50" alt="Tools & Technologies" />
+  <img src="./assets/tools-&-technologies/css-icon-96.png" width="50" height="50" alt="Tools & Technologies" />
+  <img src="./assets/tools-&-technologies/git-icon-96.png" width="50" height="50" alt="Tools & Technologies" />
+  <img src="./assets/tools-&-technologies/github-icon.png" width="50" height="50" alt="Tools & Technologies" />
+  <img src="./assets/tools-&-technologies/vs-code-icon-96.png" width="50" height="50" alt="Tools & Technologies" />
+  <img src="./assets/tools-&-technologies/postman-icon-96.png" width="50" height="50" alt="Tools & Technologies" />
 </p>
 
 
