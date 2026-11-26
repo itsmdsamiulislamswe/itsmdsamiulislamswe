@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner/gitHub-banner.jpg" alt="MD Samiul Islam GitHub Banner" width="100%" />
-</p>
+</p> -->
 
 
 
