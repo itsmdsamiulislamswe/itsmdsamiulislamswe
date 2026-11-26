@@ -151,10 +151,10 @@
 
 
 
-<h1 align="center">✍️ Random Dev Quote</h1>
+<!-- <h1 align="center">✍️ Random Dev Quote</h1>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
+</p> -->
 
 
 
