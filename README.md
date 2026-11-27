@@ -83,7 +83,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/linkedin-icon-96.png" height="50" width="50" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
