@@ -83,22 +83,22 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://www.linkedin.com/in/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/linkedin-icon-96.png" height="50" width="50" alt="Linkedin"/>
   </a>
-  <a href="https://www.facebook.com/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://www.facebook.com/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/facebook-icon-96.png" height="50" width="50" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://www.instagram.com/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/instagram-icon-96.png" height="50" width="50" alt="Instagram">
   </a>
-  <a href="https://discord.gg/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://discord.gg/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/discord-icon-96.png" height="50" width="50" alt="Discord">
   </a>
   <a href="https://youtube.com/@itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/youtube-icon-96.png" height="50" width="50" alt="YouTube">
   </a>
-  <a href="https://pinterest.com/itsmdsamiulislamswe/" target="_blank">
+  <a href="https://pinterest.com/itsmdsamiulislamswe" target="_blank">
     <img src="./assets/social-icons/pinterest-icon-96.png" height="50" width="50" alt="Pinterest">
   </a>
   <a href="https://t.me/itsmdsamiulislamswe" target="_blank">
