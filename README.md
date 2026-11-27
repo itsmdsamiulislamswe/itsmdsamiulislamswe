@@ -3,6 +3,13 @@
 </p>
 
 
+<!-- <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Profile%20Views-Active-brightgreen?style=flat" alt="Profile Views" />
+<a href="https://github.com/itsmdsamiulislamswe">
+  <img src="https://img.shields.io/badge/GitHub-itsmdsamiulislamswe-brightgreen?style=flat&logo=github" alt="GitHub Profile" />
+</a> -->
+
+
 
 <h1 align="center">👨‍💻 About Me</h1>
 
