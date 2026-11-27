@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner/gitHub-banner.jpg" alt="MD Samiul Islam GitHub Banner" width="100%" />
+  <img src="./assets/banner/github-banner.jpg" alt="MD Samiul Islam GitHub Banner" width="100%" />
 </p>
 
 
