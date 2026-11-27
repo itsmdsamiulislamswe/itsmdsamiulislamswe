@@ -189,7 +189,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmdsamiulislamswe&color=blue&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/itsmdsamiulislamswe?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/itsmdsamiulislamswe?style=social&label=Stars" alt="GitHub Stars" />
 </p>
